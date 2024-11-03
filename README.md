@@ -14,7 +14,7 @@
 
 <h2>3. UserflowChart</h2>
 
-![image](https://github.com/user-attachments/assets/a4f298b6-b015-41ea-bd17-3337076c3648)
+![image](https://github.com/user-attachments/assets/beb11a8e-b088-4af7-97ee-8bdb94d3e12e)
 
 
 <h2>4. 기능 명세서</h2>
