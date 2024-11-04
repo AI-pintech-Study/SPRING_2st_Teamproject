@@ -79,10 +79,10 @@ A 작성은 관리자만 가능
 5-1-1] 개인 가입
 ID / PW / PW체크 / 이름 / 닉네임 / 약관 / 휴대폰 번호
 
-ID 유효성 : 6~15글자 / (NOT NULL)
-PW 유효성 : 6~20글자 / NOT NULL
-이름 유효성 : NOT NULL / ~4글자
-닉네임 유효성 : NOT NULL / 2~6글자
+ID 유효성 : 6-15글자 / (NOT NULL)
+PW 유효성 : 6-20글자 / NOT NULL
+이름 유효성 : NOT NULL / 1-4글자
+닉네임 유효성 : NOT NULL / 2-6글자
 약관 : checkbox 1칸 / 유효성 검사 true / false
 휴대폰번호 : 숫자만 가능
 회원 DB : 관리자 boolean false
